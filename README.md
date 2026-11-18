@@ -15,7 +15,9 @@ The script contains a handy set of Keyboard shortcut functions:
  [ Alt + p ] => toggle mspaintxp.exe
  [ Win + Alt + n ] => toggle negativescreen.exe screen colour inversion
 ```
- To run it, associate the ahk file with AutoHotkey.exe v1 and place a shortcut into startup folder. Find it here:
+ To run it, associate the ahk file with AutoHotkey.exe v1 and place a shortcut into startup folder.
+ 
+ Find it here:
  https://www.autohotkey.com/download/1.1/AutoHotkey112207_ansi.zip
 
  ## Usage:
